@@ -17,9 +17,9 @@
 
  **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/nashukt/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/nashukt/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+**1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/nashukt/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/nashukt/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/nashukt/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+**2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/nashukt/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
   **Purpose of sales analytics:** Evaluate financial performance, support informed decision-making, and enhance communication with stakeholders.
 
@@ -32,7 +32,7 @@
 - Instill confidence in the organization’s financial health and outlook
 
 ## Technical & Soft Skills:
-	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]   Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Generating a date table using Power Query.
 - [x]	Deriving fiscal months and quarters.
 - [x]	Establishing data model relationships using Power Pivot.
