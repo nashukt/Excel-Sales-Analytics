@@ -13,7 +13,7 @@
 - Determine effective customer discount strategies
 - Support negotiations with consumers
 - Identify opportunities for business expansion in high-potential markets
-- 
+
 ## Finance Report :
 
  **Project objective:** 
